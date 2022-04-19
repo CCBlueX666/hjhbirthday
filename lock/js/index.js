@@ -47,7 +47,7 @@ var Lock = function () {
           this.dom.status.textContent = 'UNLOCKED';
       },2000);
         setTimeout(function(){
-          window.location.href='../video/video.html';
+          window.location.href='https://v.superbed.cn/play/62598420239250f7c557ad99';
       },3000);
       } else {
         this.dom.lock.classList.remove('verified');
